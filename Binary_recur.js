@@ -1,6 +1,6 @@
 function line(n) {
   let index = n;
-  let arr = [-5, 2, 4, 6, 10];
+  // let arr = [-5, 2, 4, 6, 10];
   let lengt = arr.length - 1;
   return search(index, arr, lengt);
 }

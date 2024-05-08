@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from index.js file
+=======
+ Hallow Ind file for testing
+>>>>>>> master
